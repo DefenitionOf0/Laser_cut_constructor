@@ -1,0 +1,68 @@
+[
+  {
+    "triA": 100,
+    "triB": 100,
+    "polySides": 5,
+    "cutouts": [],
+    "slotLines": [],
+    "shape": 0,
+    "h": 100,
+    "edges": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "triC": 100,
+    "texts": [],
+    "w": 100,
+    "name": "Box_Bottom",
+    "svgs": []
+  },
+  {
+    "triA": 100,
+    "triB": 100,
+    "polySides": 5,
+    "cutouts": [],
+    "slotLines": [],
+    "shape": 0,
+    "h": 100,
+    "edges": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "triC": 100,
+    "texts": [],
+    "w": 100,
+    "name": "New Part",
+    "svgs": []
+  },
+  {
+    "triA": 100,
+    "triB": 100,
+    "polySides": 5,
+    "cutouts": [],
+    "slotLines": [],
+    "shape": 0,
+    "h": 100,
+    "edges": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "triC": 100,
+    "texts": [],
+    "w": 100,
+    "name": "New Part",
+    "svgs": [{
+      "p": "C:\\Users\\ex4\\Downloads\\tibbixel-dot-com-7712-svg.svg",
+      "w": 96.30059051513672,
+      "x": 50,
+      "h": 100,
+      "y": 50
+    }]
+  }
+]
